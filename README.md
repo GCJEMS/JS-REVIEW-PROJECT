@@ -1,4 +1,4 @@
-# JS-REVIEW-PROJECT
+# JS-REVIEW-PROJECT By James_Andre_Sinining
 <!DOCTYPE html>
 <html lang="en">
 <head>
